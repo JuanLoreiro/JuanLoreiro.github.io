@@ -1,45 +1,54 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Juan Loreiro",
+    "label": "FullStack Developer",
+    "picture": "https://avatars.githubusercontent.com/u/163009743?v=4",
+    "email": "juanloreiro10@gmail.com",
+    "phone": "+54 9 376 5290087",
+    "website": "https://juanloreiro.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Misiones. I expect to graduate in Spring, 2027. Additionally, I have previous studies and constat training in software engineering and bioinformatics, also have varied experience in web development, database testing, widely used lenguages and frameworks such as: Tailwind, Css, HTML, Jacascript, TypeScript, React.js, Elixir, Phoenix, Among others",
+    "location": { "address": "Street 63", "postalCode": "3300", "city": "Posadas", "countryCode": "ARG", "region": "Misiones" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "JuanLoreiro", "url": "http://github.com/juanloreiro" },
+      { "network": "linkedin", "username": "JuanLoreiro", "url": "https://www.linkedin.com/in/juan-ismael-rom%C3%A1n-loreiro-078a62296/" },
+      { "network": "Facebook", "username": "JuanLoreiro", "url": "https://www.facebook.com/juan.loreiro/" },
+      { "network": "instagram", "username": "JuanLoreiro", "url": "https://www.instagram.com/juanloreiro/" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
     { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Develop" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp", "Elixir", "Phoenix", "Css", "React.js", "OracleDB", "Tailwind" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets/OS/Win",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad", "VisualStudioCode", "Wordpress", "Salesforce" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Misiones",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
+        "React.js with practices and Finished",
+        "SQL with practices and Finished",
+        "Vue 3 with practices and Finished",
+        "JavaScript with practices and Finished",
+        "Java with practices and Finished",
+        "Python with practices and Finished",
+        "Node.js with practices and Finished",
+        "Cloud with practices and Finished",
+        "Tester - QA with practices and Finished",
       ]
     }
   ],
